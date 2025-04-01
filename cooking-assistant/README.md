@@ -24,10 +24,12 @@ streamlit run main.py
 
 ## Output Example
 ### Ingredient Identification
-![Ingredient Identification](C:\FPTU\Project\Creating an AI-Powered Cooking Assistant with LLaMA 3.2 Vision\-AI-Powered-Cooking-Assistant\cooking-assistant\img\Input.jpg)
+### Ingredient Identification
+![Ingredient Identification](cooking-assistant/img/Input.jpg)
 
 ### Recipe Suggestion
-![Recipe Suggestion](C:\FPTU\Project\Creating an AI-Powered Cooking Assistant with LLaMA 3.2 Vision\-AI-Powered-Cooking-Assistant\cooking-assistant\img\output.png)
+![Recipe Suggestion](cooking-assistant/img/output.png)
+
 
 
 
