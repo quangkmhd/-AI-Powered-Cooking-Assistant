@@ -25,11 +25,18 @@ streamlit run main.py
 ## Output Example
 ### Ingredient Identification
 ### Ingredient Identification
+<<<<<<< HEAD
 ![Ingredient Identification](cooking-assistant\img\Input.jpg)
 
 ### Recipe Suggestion
 ![Recipe Suggestion](cooking-assistant\img\output.png)
 
+=======
+![Ingredient Identification](img\Input.jpg)
+
+### Recipe Suggestion
+![Recipe Suggestion](img/output.png)
+>>>>>>> 21cc978c90843580e9b18c15e13b2f5d4e562a2d
 
 
 
