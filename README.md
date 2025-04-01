@@ -23,7 +23,7 @@ streamlit run main.py
 
 
 ## Output Example
-### Ingredient Identification
+
 ### Ingredient Identification
 ![Ingredient Identification](cooking-assistant\img\Input.jpg)
 
